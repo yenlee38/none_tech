@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "460187864436",
+    "project_id": "nonetech",
+    "storage_bucket": "nonetech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460187864436:android:9babae2cf4d939119ff021",
+        "android_client_info": {
+          "package_name": "com.example.none_tech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4isvs1JY2D2h80QwREzm9_C2KiMR427c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
